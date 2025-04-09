@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 55,
+    "description": "掏製𡨸喃！！！！"
+  },
+   "language": {
+      "vnom": {
+         "name": "𡨸喃",
+         "region": "越南",
+         "bidirectional": false
+      }
+   }
+}

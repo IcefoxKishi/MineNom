@@ -1,0 +1,27 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "minecraft:hanamina.ttf",
+            "shift": [0, 1],
+            "size":10,
+            "oversample": 4
+        },
+        {
+            "type": "ttf",
+            "file": "minecraft:hanaminb.ttf",
+            "shift": [0, 1],
+            "size": 10,
+            "oversample": 4,
+            "skip": "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz@,.-+*=~!?`';:#$%&_^|\"/(){}<>[]"
+        },
+        {
+            "type": "ttf",
+            "file": "minecraft:hanaminc.ttf",
+            "shift": [0, 1],
+            "size": 10,
+            "oversample": 4,
+            "skip": "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz@,.-+*=~!?`';:#$%&_^|\"/(){}<>[]"
+        }
+    ]
+}
